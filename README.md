@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya230305/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/aditya230305/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aditya230305/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
