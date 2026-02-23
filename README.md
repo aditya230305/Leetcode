@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
