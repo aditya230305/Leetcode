@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya230305/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aditya230305/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aditya230305/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya230305/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya230305/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya230305/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
