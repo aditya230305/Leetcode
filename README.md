@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aditya230305/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/aditya230305/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aditya230305/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya230305/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya230305/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditya230305/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya230305/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/aditya230305/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aditya230305/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya230305/Leetcode/tree/master/0142-linked-list-cycle-ii) |
