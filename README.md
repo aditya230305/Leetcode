@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya230305/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditya230305/Leetcode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/aditya230305/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya230305/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Linked List
 |  |
 | ------- |
