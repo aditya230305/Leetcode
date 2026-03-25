@@ -19,9 +19,9 @@ public:
         }
     }
     vector<string> generateParenthesis(int n) {
-        int open=0,close=0;
+        
         string curr="";
-        solve(curr,n,open,close);
+        solve(curr,n,0,0);
 
         return result;
     }
