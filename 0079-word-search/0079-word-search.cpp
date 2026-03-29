@@ -2,25 +2,30 @@ class Solution {
 public:
     int m, n;
     vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    bool find(vector<vector<char>>& board,int i ,int j,int ind, string &word){
-        if(ind==word.length()) return true;
+    bool find(vector<vector<char>>& board, int i, int j, int ind,
+              string& word) {
+        if (ind == word.length())
+            return true;
 
-        if(i<0||j<0||i>=m||j>=n||board[i][j]=='$') return false;
+        if (i < 0 || j < 0 || i >= m || j >= n || board[i][j] == '$')
+            return false;
 
-        if(board[i][j]!=word[ind]) return false;
-            char temp=board[i][j];
-            board[i][j]='$';
-        for(auto &dir:directions){
-            int newi=i+dir[0];
-            int newj=j+dir[1];
-            
-            if(find(board,newi,newj,ind+1,word)) return true;
+        if (board[i][j] != word[ind])
+            return false;
+        char temp = board[i][j];
+        board[i][j] = '$';
+        for (auto& dir : directions) {
+            int newi = i + dir[0];
+            int newj = j + dir[1];
+
+            if (find(board, newi, newj, ind + 1, word))
+                return true;
         }
-        board[i][j]=temp;
+        board[i][j] = temp;
 
         return false;
     }
-    
+
     bool exist(vector<vector<char>>& board, string word) {
         m = board.size();
         n = board[0].size();
