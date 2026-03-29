@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya230305/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aditya230305/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya230305/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya230305/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditya230305/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya230305/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -188,5 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aditya230305/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya230305/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aditya230305/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/aditya230305/Leetcode/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
