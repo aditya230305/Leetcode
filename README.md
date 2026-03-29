@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya230305/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya230305/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
