@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya230305/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditya230305/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aditya230305/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditya230305/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditya230305/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya230305/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya230305/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/aditya230305/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aditya230305/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya230305/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya230305/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 ## Design
 |  |
