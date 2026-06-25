@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aditya230305/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aditya230305/Leetcode/tree/master/0735-asteroid-collision) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aditya230305/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya230305/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aditya230305/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya230305/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya230305/Leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -300,12 +304,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
