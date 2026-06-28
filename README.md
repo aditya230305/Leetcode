@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya230305/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aditya230305/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya230305/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya230305/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya230305/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya230305/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya230305/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya230305/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya230305/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya230305/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya230305/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya230305/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya230305/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya230305/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya230305/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -363,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya230305/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
