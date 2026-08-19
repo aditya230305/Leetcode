@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditya230305/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/aditya230305/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya230305/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/aditya230305/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/aditya230305/Leetcode/tree/master/1922-count-good-numbers) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aditya230305/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/aditya230305/Leetcode/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/aditya230305/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
