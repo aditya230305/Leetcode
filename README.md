@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya230305/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditya230305/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/aditya230305/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/aditya230305/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/aditya230305/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya230305/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aditya230305/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/aditya230305/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/aditya230305/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya230305/Leetcode/tree/master/0344-reverse-string) |
