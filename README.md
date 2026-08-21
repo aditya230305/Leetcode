@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aditya230305/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aditya230305/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aditya230305/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aditya230305/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/aditya230305/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya230305/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya230305/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aditya230305/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aditya230305/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aditya230305/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aditya230305/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aditya230305/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya230305/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aditya230305/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aditya230305/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aditya230305/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aditya230305/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aditya230305/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -493,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aditya230305/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
