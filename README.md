@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/aditya230305/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aditya230305/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/aditya230305/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aditya230305/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/aditya230305/Leetcode/tree/master/0402-remove-k-digits) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aditya230305/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aditya230305/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/aditya230305/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya230305/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya230305/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
