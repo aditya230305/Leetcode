@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2706-buy-two-chocolates](https://github.com/aditya230305/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2706-buy-two-chocolates](https://github.com/aditya230305/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aditya230305/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya230305/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/aditya230305/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Trie
 |  |
 | ------- |
