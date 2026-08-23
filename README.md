@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya230305/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditya230305/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aditya230305/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/aditya230305/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aditya230305/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aditya230305/Leetcode/tree/master/0189-rotate-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya230305/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aditya230305/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aditya230305/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/aditya230305/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aditya230305/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya230305/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya230305/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
