@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/aditya230305/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/aditya230305/Leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/aditya230305/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya230305/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya230305/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aditya230305/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/aditya230305/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya230305/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aditya230305/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aditya230305/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya230305/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya230305/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditya230305/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya230305/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aditya230305/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya230305/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
