@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditya230305/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aditya230305/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/aditya230305/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/aditya230305/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditya230305/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aditya230305/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aditya230305/Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/aditya230305/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditya230305/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aditya230305/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aditya230305/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/aditya230305/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aditya230305/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aditya230305/Leetcode/tree/master/0860-lemonade-change) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aditya230305/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditya230305/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya230305/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/aditya230305/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aditya230305/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
 ## Linked List
