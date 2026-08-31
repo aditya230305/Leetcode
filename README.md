@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aditya230305/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/aditya230305/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aditya230305/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/aditya230305/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/aditya230305/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aditya230305/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aditya230305/Leetcode/tree/master/0287-find-the-duplicate-number) |
