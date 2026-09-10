@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/aditya230305/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya230305/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya230305/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya230305/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya230305/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya230305/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2706-buy-two-chocolates](https://github.com/aditya230305/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/aditya230305/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya230305/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya230305/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
