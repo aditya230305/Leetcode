@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aditya230305/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya230305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditya230305/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/aditya230305/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/aditya230305/Leetcode/tree/master/1496-path-crossing) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya230305/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aditya230305/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditya230305/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya230305/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya230305/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya230305/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya230305/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditya230305/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
