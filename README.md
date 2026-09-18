@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya230305/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/aditya230305/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/aditya230305/Leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/aditya230305/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/aditya230305/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/aditya230305/Leetcode/tree/master/0796-rotate-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya230305/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aditya230305/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/aditya230305/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/aditya230305/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/aditya230305/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya230305/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya230305/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya230305/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aditya230305/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/aditya230305/Leetcode/tree/master/0567-permutation-in-string) |
 | [0890-find-and-replace-pattern](https://github.com/aditya230305/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya230305/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya230305/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya230305/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aditya230305/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya230305/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aditya230305/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya230305/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya230305/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya230305/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
