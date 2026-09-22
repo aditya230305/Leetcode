@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aditya230305/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aditya230305/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aditya230305/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/aditya230305/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aditya230305/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/aditya230305/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya230305/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aditya230305/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya230305/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya230305/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/aditya230305/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya230305/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
